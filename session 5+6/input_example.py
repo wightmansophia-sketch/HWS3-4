@@ -1,0 +1,5 @@
+name= input("Enter your name: ")
+print("hello", name)
+age= input("Enter your age: ")
+age = int(age)
+print("you were born in", 2025-age)
